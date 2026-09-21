@@ -136,9 +136,6 @@ bun test        # unit + integration tests
 bun run check   # type-check
 ```
 
-See [`docs/superpowers/specs`](docs/superpowers/specs) for the design and
-[`docs/superpowers/plans`](docs/superpowers/plans) for the implementation plan.
-
 ## Notes and limits
 
 - The reviewer is the safety net. The gated agent trusts its tools, so the deterministic
