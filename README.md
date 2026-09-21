@@ -168,6 +168,12 @@ See [`docs/superpowers/specs`](docs/superpowers/specs) for the design and
 - To watch decisions, run `tail -f ~/.kiro/auto-permissions/decisions.jsonl` (needs
   `"debug":true` or `"shadow":true` in `config.json`).
 
-## License
+## Acknowledgments
 
-MIT
+This project is a Kiro port of
+[OpenCode Auto Permissions](https://github.com/hueyexe/opencode-auto-permissions)
+by Chris Clapham.
+
+Adapted and maintained by Mert Selimbeyoğlu.
+
+Licensed under the MIT License.
