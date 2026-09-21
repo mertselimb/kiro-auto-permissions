@@ -1,0 +1,7 @@
+{
+  "name": "auto-permissions-reviewer",
+  "description": "Isolated one-shot permission reviewer. Returns only a JSON verdict.",
+  "prompt": "file://~/.kiro/auto-permissions/reviewer-system-prompt.txt",
+  "tools": [],
+  "allowedTools": []
+}

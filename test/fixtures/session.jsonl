@@ -1,0 +1,4 @@
+{"version":"v1","kind":"Prompt","data":{"message_id":"m1","content":[{"kind":"text","data":"first user message"}],"meta":{"timestamp":1}}}
+{"version":"v1","kind":"AssistantMessage","data":{"message_id":"a1","content":[{"kind":"text","data":"assistant reply"}]}}
+{"version":"v1","kind":"Prompt","data":{"message_id":"m2","content":[{"kind":"text","data":"[Auto Permissions] The requested action was blocked: reason"}],"meta":{"timestamp":2}}}
+{"version":"v1","kind":"Prompt","data":{"message_id":"m3","content":[{"kind":"text","data":"do not run rm -rf build"}],"meta":{"timestamp":3}}}
